@@ -1,0 +1,20 @@
+D:\Users\k27812\source\repos\metodkramera\metodkramera\bin\Debug\metodkramera.exe.config
+D:\Users\k27812\source\repos\metodkramera\metodkramera\bin\Debug\metodkramera.exe
+D:\Users\k27812\source\repos\metodkramera\metodkramera\bin\Debug\metodkramera.pdb
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.Form1.resources
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.Properties.Resources.resources
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.csproj.GenerateResource.Cache
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.csproj.CoreCompileInputs.cache
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.exe
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.pdb
+D:\Users\k27812\source\repos\metodkramera\metodkramera\obj\Debug\metodkramera.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\bin\Debug\metodkramera.exe.config
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\bin\Debug\metodkramera.exe
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\bin\Debug\metodkramera.pdb
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.Form1.resources
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.Properties.Resources.resources
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.exe
+C:\Users\Александр\Desktop\Новая папка\metodkramera\metodkramera\obj\Debug\metodkramera.pdb
